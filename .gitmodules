@@ -2,3 +2,8 @@
 	path = RLJO/Shipping_Module
 	url = git@github.com:RLJO/Shipping_Module.git
 	branch = master
+
+[submodule "RLJO/Floraison"]
+	path = RLJO/Floraison
+	url = git@github.com:RLJO/Floraison.git
+	branch = app-l10n_tunisia_payroll
