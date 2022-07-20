@@ -12,3 +12,8 @@
 	path = RLJO/Floraison1
 	url = git@github.com:RLJO/Floraison.git
 	branch = main
+
+[submodule "reemashraf/CodeskSolution"]
+	path = reemashraf/CodeskSolution
+	url = git@github.com:reemashraf/CodeskSolution.git
+	branch = main
